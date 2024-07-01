@@ -44,4 +44,5 @@ order: 2
 5. Готово!
 
 - **Автор: notalunar**
-- **Статья взята [отсюда](https://wiki.play2go.cloud/vps/ssh)** 
+- **Статья взята [отсюда](https://wiki.play2go.cloud/vps/ssh)**
+- **GitHub репозиторий [ссылка](https://github.com/play2go/wiki)**
