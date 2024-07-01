@@ -1,10 +1,12 @@
 {
-  "devDependencies": {
-    "vitepress": "^1.2.3"
-  },
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "docs:deploy": "vitepress build docs && gh-pages -d docs/.vitepress/dist"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "vitepress": "^1.2.3"
   }
 }
