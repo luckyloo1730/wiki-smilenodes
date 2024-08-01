@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "SmileNodes Wiki",
-  description: "База знаний для клиентов хостинга, доступна каждому!",
+  description: "Вики с большим количеством полезной информации для пользователей smilenodes.xyz",
   themeConfig: {
     nav: [
       { text: 'Главная', link: '/' },
