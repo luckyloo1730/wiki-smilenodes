@@ -50,7 +50,7 @@ export default defineConfig({
 
 
     socialLinks: [
-      { icon: "discord", link: "https://discord.gg/smilenodes" },
+      { icon: "discord", link: "https://discord.gg/smilenodes-c-khosting-igrovykh-serverov-i-saitov-1163201292395618355" },
       { icon: 'github', link: 'https://github.com/luckyloo1730/wiki' }
     ]
   }
