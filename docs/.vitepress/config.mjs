@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "SmileNodes Wiki",
-  description: "SmileNodes Wiki",
+  description: "База знаний для клиентов хостинга, доступна каждому!",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
