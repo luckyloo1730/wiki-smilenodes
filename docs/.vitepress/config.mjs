@@ -34,7 +34,8 @@ export default defineConfig({
           text: 'VPS',
           items: [
             { text: 'Как подключиться к VPS по SSH', link: '/vps/ssh' },
-            { text: 'Как устоновить htop', link: '/vps/htop'}
+            { text: 'Как устоновить htop', link: '/vps/htop'},
+            { text: 'Как устоновить neofetch', link: '/vps/neofetch'}
           ]
         }
       ]
