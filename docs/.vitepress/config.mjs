@@ -19,7 +19,8 @@ export default defineConfig({
           items: [
             { text: 'Айпи Адресса Нод', link: '/host/ip' },
             { text: 'Блокировка Акаунта', link: '/host/suspend' },
-            { text: 'ID Сервера', link: '/host/id' }
+            { text: 'ID Сервера', link: '/host/id' },
+            { text: 'Как выдать доступ пользователю?', link: '/host/userAccess'}
           ]
         }
       ],
