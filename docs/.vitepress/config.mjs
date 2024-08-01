@@ -63,7 +63,6 @@ export default defineConfig({
             { text: 'Как выдать доступ пользователю?', link: '/host/userAccess'},
             { text: 'Как изменить дискорд?', link: '/host/discord'},
             { text: 'Как изменить тариф?', link: '/host/tariffChange'},
-            { text: 'Как изменить версию?', link: '/host/version'},
           ],
         }
       ],
@@ -82,10 +81,15 @@ export default defineConfig({
           text: 'Minecraft',
           items: [
             { text: 'Майнкрафт Ядра', link: '/minecraft/cores' },
-            { text: 'Полезные Плагины', link: '/minecraft/plugins'}
+            { text: 'Полезные Плагины', link: '/minecraft/plugins'},
+            { text: 'Не удалось проверить имя пользователя', link: '/minecraft/online-mode'},
+            { text: 'Как изменить версию?', link: '/minecraft/version'},
+            { text: 'Ошибка | Unsupported Java detected (65.0). Only up to Java 16 is supported.', link: '/minecraft/java'},
+            { text: 'Устоновка плагинов', link: '/minecraft/plugin-install'},
+
           ]
         }
-      ]
+      ],
     },
     
     footer: {
