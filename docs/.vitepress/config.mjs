@@ -20,7 +20,8 @@ export default defineConfig({
             { text: 'Айпи Адресса Нод', link: '/host/ip' },
             { text: 'Блокировка Акаунта', link: '/host/suspend' },
             { text: 'ID Сервера', link: '/host/id' },
-            { text: 'Как выдать доступ пользователю?', link: '/host/userAccess'}
+            { text: 'Как выдать доступ пользователю?', link: '/host/userAccess'},
+            { text: 'Как изменить дискорд?', link: '/host/discord'}
           ]
         }
       ],
