@@ -21,3 +21,10 @@ hero:
     - theme: alt
       text: Телеграм
       link: https://t.me/smilenodes_host
+
+# :::warning :construction: Under construction...
+
+# Эта статья ещё не готова.
+
+# Вы можете помочь, [отправив свою статью](https://t.me/luckyloo_dev) и сняв эту пометку.
+# :::

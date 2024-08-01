@@ -86,6 +86,11 @@ export default defineConfig({
             { text: 'Как изменить версию?', link: '/minecraft/version'},
             { text: 'Ошибка | Unsupported Java detected (65.0). Only up to Java 16 is supported.', link: '/minecraft/java'},
             { text: 'Устоновка плагинов', link: '/minecraft/plugin-install'},
+            { text: 'Приязать домен к серверу', link: '/minecraft/domain'},
+            { text: 'Защита от DDoS', link: '/minecraft/ddos'},
+
+
+
 
           ]
         }
