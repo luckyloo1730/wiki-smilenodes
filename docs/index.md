@@ -3,6 +3,9 @@
 layout: home
 
 hero:
+  image: 
+    dark: 'https://smilenodes.xyz/assets/img/SmileNodes%20Logo.png'
+    light: 'https://smilenodes.xyz/assets/img/SmileNodes%20Logo.png'
   name: "SmileNodes Wiki"
   tagline: База знаний для клиентов хостинга, доступна каждому!
   actions:

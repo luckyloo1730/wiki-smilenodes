@@ -1,14 +1,56 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  head: [["link", { rel: "icon", href: "https://smilenodes.xyz/assets/img/SmileNodes%20Logo.png" }]],
   title: "SmileNodes Wiki",
   description: "Вики с большим количеством полезной информации для пользователей smilenodes.xyz",
   themeConfig: {
     nav: [
       { text: 'Главная', link: '/' },
       { text: 'Хостинг', link: '/host' },
+      { text: 'Minecraft', link: '/minecraft' },
       { text: 'VPS', link: '/vps'}
     ],
+
+    search: {
+      provider: "local",
+      options: {
+        translations: {
+          button: {
+            buttonText: "Поиск",
+            buttonAriaLabel: "Поиск страницы",
+          },
+          modal: {
+            noResultsText: "Результатов не найдено по запросу",
+            resetButtonTitle: "Очистить",
+            footer: {
+              selectText: "- выбрать",
+              navigateText: "- переключение между результатами",
+              closeText: "- закрыть",
+            },
+          },
+        },
+      },
+    },
+
+    sidebarMenuLabel: "Меню",
+    darkModeSwitchLabel: "Режим",
+    returnToTopLabel: "Наверх",
+    docFooter: {
+      prev: "Предыдущая страница",
+      next: "Следующая страница",
+    },
+    outline: {
+      label: "Содержание",
+      level: [2, 3],
+    },
+
+    notFound: {
+      code: "Ошибка 404",
+      title: "Страница не найдена",
+      quote: "Возможно, она была удалена, либо же переименована без перенаправления. Может быть, вы отправите исправление на GitHub? (а кто это сделает, если не вы? ;) )",
+      linkText: "Вернуться на главную",
+    },
 
     sidebar: {
       '/host/': [
@@ -22,9 +64,7 @@ export default defineConfig({
             { text: 'Как изменить дискорд?', link: '/host/discord'},
             { text: 'Как изменить тариф?', link: '/host/tariffChange'},
             { text: 'Как изменить версию?', link: '/host/version'},
-
-
-          ]
+          ],
         }
       ],
       '/vps/': [
@@ -34,6 +74,15 @@ export default defineConfig({
             { text: 'Как подключиться к VPS по SSH', link: '/vps/ssh' },
             { text: 'Как устоновить htop', link: '/vps/htop'},
             { text: 'Как устоновить neofetch', link: '/vps/neofetch'}
+          ]
+        }
+      ],
+      '/minecraft/': [
+        {
+          text: 'Minecraft',
+          items: [
+            { text: 'Майнкрафт Ядра', link: '/minecraft/cores' },
+            { text: 'Полезные Плагины', link: '/minecraft/plugins'}
           ]
         }
       ]
