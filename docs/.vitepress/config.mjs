@@ -21,7 +21,11 @@ export default defineConfig({
             { text: 'Блокировка Акаунта', link: '/host/suspend' },
             { text: 'ID Сервера', link: '/host/id' },
             { text: 'Как выдать доступ пользователю?', link: '/host/userAccess'},
-            { text: 'Как изменить дискорд?', link: '/host/discord'}
+            { text: 'Как изменить дискорд?', link: '/host/discord'},
+            { text: 'Как изменить тариф?', link: '/host/tariffChange'},
+            { text: 'Как изменить версию?', link: '/host/version'},
+
+
           ]
         }
       ],
