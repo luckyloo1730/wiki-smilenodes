@@ -14,7 +14,7 @@ hero:
       link: https://smilenodes.xyz
     - theme: alt
       text: Дискорд
-      link: https://discord.gg/smilenodes
+      link: https://discord.gg/smilenodes-c-khosting-igrovykh-serverov-i-saitov-1163201292395618355
     - theme: alt
       text: Телеграм
-      link: https://t.me/smilenodes_news
+      link: https://t.me/smilenodes_host
