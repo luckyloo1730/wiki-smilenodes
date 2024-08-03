@@ -2,7 +2,7 @@
 order: 4
 ---
 
-# Как устоновить NeoFetch?
+# Как установить NeoFetch?
 
 ## Что такое neofetch?
 
@@ -16,6 +16,6 @@ order: 4
 apt install neofetch -y
 ```
 3. Нажмите Enter
-4. Ожидайте устоновки
+4. Ожидайте установки
 5. Пропишите: `neofetch`
 6. Готово!
