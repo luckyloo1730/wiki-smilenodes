@@ -101,7 +101,7 @@ export default defineConfig({
       message:
         "© 2023 - " +
         new Date().getFullYear() +
-        '. <a href="https://smilenodes.xyz">SmileNodes</a>',
+        '. <a href="https://pay4fish.cloud">Pay4Fish Cloud</a>',
     },
 
 

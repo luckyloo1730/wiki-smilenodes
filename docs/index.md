@@ -4,9 +4,9 @@ layout: home
 
 hero:
   image: 
-    dark: 'https://smilenodes.xyz/assets/img/SmileNodes%20Logo.png'
-    light: 'https://smilenodes.xyz/assets/img/SmileNodes%20Logo.png'
-  name: "SmileNodes Wiki"
+    dark: 'https://i.imgur.com/T47lxWu.png'
+    light: 'https://i.imgur.com/T47lxWu.png'
+  name: "Pay4Fish Wiki"
   tagline: База знаний для клиентов хостинга, доступна каждому!
   actions:
     - theme: brand
@@ -14,13 +14,13 @@ hero:
       link: /host
     - theme: alt
       text: Сайт
-      link: https://smilenodes.xyz
+      link: https://pay4fish.cloud
     - theme: alt
       text: Дискорд
       link: https://discord.gg/smilenodes-c-khosting-igrovykh-serverov-i-saitov-1163201292395618355
     - theme: alt
       text: Телеграм
-      link: https://t.me/smilenodes_host
+      link: https://t.me/pay4fish
 
 # :::warning :construction: Under construction...
 
