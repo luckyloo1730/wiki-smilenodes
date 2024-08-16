@@ -22,7 +22,7 @@ order: 9
 
 :::warning :warning: Важно
 **Необходим зарегистрированный домен!**
-**Приобрести его можно [здесь](https://smilenodes.xyz/domains/)**
+**Приобрести его можно [здесь](https://pay4fish.cloud/domains/)**
 :::
 
 ## Шаг 1
@@ -85,7 +85,7 @@ order: 9
 
 :::warning :warning: Важно
 **Необходим зарегистрированный домен!**
-**Приобрести его можно [здесь](https://smilenodes.xyz/domains/)**
+**Приобрести его можно [здесь](https://pay4fish.cloud/domains/)**
 :::
 
 ## Шаг 1
