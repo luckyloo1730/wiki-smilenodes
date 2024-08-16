@@ -11,3 +11,4 @@ order: 2
 | Donator-1 | Amd Ryzen 9 5950x | `212.80.7.1` | `d1.smilenodes.xyz` |
 | Donator-2 | Amd Ryzen 9 5950x | `193.222.99.33` | `d2.smilenodes.xyz` |
 | Donator-3 | Amd Ryzen 5 3600 | `65.108.110.52` | `d3.smilenodes.xyz` |
+| Donator-4 | - | `-` | `d4.smilenodes.xyz` |

@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  head: [["link", { rel: "icon", href: "https://smilenodes.xyz/assets/img/SmileNodes%20Logo.png" }]],
-  title: "SmileNodes Wiki",
+  head: [["link", { rel: "icon", href: "" }]],
+  title: "Pay4Fish Wiki",
   description: "Вики с большим количеством полезной информации для пользователей smilenodes.xyz",
   themeConfig: {
     nav: [
