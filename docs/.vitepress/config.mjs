@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   head: [["link", { rel: "icon", href: "" }]],
   title: "Pay4Fish Wiki",
-  description: "Вики с большим количеством полезной информации для пользователей pay4fish.cloud",
+  description: "Вики с большим количеством полезной информации для пользователей Pay4Fish Cloud",
   themeConfig: {
     nav: [
       { text: 'Главная', link: '/' },
