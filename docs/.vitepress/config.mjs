@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   head: [["link", { rel: "icon", href: "" }]],
   title: "Pay4Fish Wiki",
-  description: "Вики с большим количеством полезной информации для пользователей smilenodes.xyz",
+  description: "Вики с большим количеством полезной информации для пользователей pay4fish.cloud",
   themeConfig: {
     nav: [
       { text: 'Главная', link: '/' },
@@ -63,6 +63,7 @@ export default defineConfig({
             { text: 'Как выдать доступ пользователю?', link: '/host/userAccess'},
             { text: 'Как изменить дискорд?', link: '/host/discord'},
             { text: 'Как изменить тариф?', link: '/host/tariffChange'},
+            { text: 'Почему на моё обращение отвечают так долго?', link: '/host/response'},
           ],
         }
       ],
@@ -106,7 +107,7 @@ export default defineConfig({
 
 
     socialLinks: [
-      { icon: "discord", link: "https://discord.gg/smilenodes-c-khosting-igrovykh-serverov-i-saitov-1163201292395618355" },
+      { icon: "discord", link: "https://discord.gg/MVZwbW7RyZ" },
       { icon: 'github', link: 'https://github.com/luckyloo1730/wiki' }
     ]
   }
