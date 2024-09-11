@@ -64,6 +64,9 @@ export default defineConfig({
             { text: 'Как изменить дискорд?', link: '/host/discord'},
             { text: 'Как изменить тариф?', link: '/host/tariffChange'},
             { text: 'Почему на моё обращение отвечают так долго?', link: '/host/response'},
+            { text: '', link: '/host/tariff'},
+            { text: 'Как выбрать тариф хостинга для проекта?', link: '/host/account'},
+
           ],
         }
       ],
